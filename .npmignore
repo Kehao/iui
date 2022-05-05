@@ -1,0 +1,28 @@
+.DS_Store
+node_modules/
+npm-debug.log
+*.log
+
+# dev folder
+example
+test
+scripts
+
+.editorconfig
+.eslintignore
+.eslintrc.js
+.nvmrc
+.vscode
+components.json
+directives.json
+
+
+# online demo folder
+dist
+
+# task file
+gulpfile.es.js
+gulpfile.js
+
+# config.js
+src/iConfig.js
